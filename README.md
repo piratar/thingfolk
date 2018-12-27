@@ -33,7 +33,7 @@ Hér fyrir neðan er listi á þau tól sem við erum að nota, og gögn sem eru
 * https://twitter.com/helgihg
 
 #### Jón Þór Ólafsson
-* https://twitter.com/jonthorolafsson?lang=en
+* https://twitter.com/jonthorolafsson
 
 #### Smári McCarthy
 * https://twitter.com/smarimc

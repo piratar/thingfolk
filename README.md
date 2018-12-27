@@ -1,10 +1,7 @@
 # thingfolk
 Upplýsingar um þingfólk Pírata
 
-
-Opinberar upplýsingar um Þingmenn Pírata á vef Alþingis:
-https://www.althingi.is/thingmenn/thingflokkar/piratar/
-
+Opinberar upplýsingar um Þingmenn Pírata frá vef [Alþingis](https://www.althingi.is/thingmenn/thingflokkar/piratar/)
 
 
 | Nafn | Embætti | Kjördæmanúmer | Kjördæmi |
@@ -17,27 +14,27 @@ https://www.althingi.is/thingmenn/thingflokkar/piratar/
 |Þórhildur Sunna Ævarsdóttir|	formaður þingflokks | 4. þm. | Reykv. s.|
 
 
-### Í hverju erum við að vinna?
+## Í hverju erum við að vinna?
 Viltu vita hverju Alþingismenn Pírata eru að vinna í?
 
 Hér fyrir neðan er listi á þau tól sem við erum að nota, og gögn sem eru **ekki viðkvæm**.
 
-#### Björn Leví Gunnarsson
+### Björn Leví Gunnarsson
 * https://www.notion.so/8048e339a4554daa828ca07e46cb2030?v=748fd93c07104d8890d50d1c499f5cd8
 * https://twitter.com/_bjornlevi_
 
-#### Halldóra Mogensen
+### Halldóra Mogensen
 * https://twitter.com/Halldoramog
 
-#### Helgi Hrafn Gunnarsson
+### Helgi Hrafn Gunnarsson
 * https://twitter.com/helgihg
 
-#### Jón Þór Ólafsson
+### Jón Þór Ólafsson
 * https://twitter.com/jonthorolafsson
 
-#### Smári McCarthy
+### Smári McCarthy
 * https://twitter.com/smarimc
 
-#### Þórhildur Sunna Ævarsdóttir
+### Þórhildur Sunna Ævarsdóttir
 * https://twitter.com/sunnago
 

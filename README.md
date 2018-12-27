@@ -24,7 +24,7 @@ Hér fyrir neðan er listi á þau tól sem við erum að nota, og gögn sem eru
 * [Twitter](https://twitter.com/_bjornlevi_)
 
 ### Halldóra Mogensen
-* [Twitter](https://twitter.com/Halldoramog)
+* [Twitter](https://twitter.com/halldoramog)
 
 ### Helgi Hrafn Gunnarsson
 * [Twitter](https://twitter.com/helgihg)

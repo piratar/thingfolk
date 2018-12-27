@@ -23,13 +23,20 @@ Hér fyrir neðan er listi á þau tól sem við erum að nota, og gögn sem eru
 
 #### Björn Leví Gunnarsson
 * https://www.notion.so/8048e339a4554daa828ca07e46cb2030?v=748fd93c07104d8890d50d1c499f5cd8
+* https://twitter.com/_bjornlevi_
 
 #### Halldóra Mogensen
+* https://twitter.com/Halldoramog
 
 #### Helgi Hrafn Gunnarsson
+* https://twitter.com/helgihg
 
 #### Jón Þór Ólafsson
+* https://twitter.com/jonthorolafsson?lang=en
 
 #### Smári McCarthy
+* https://twitter.com/smarimc
 
 #### Þórhildur Sunna Ævarsdóttir
+* https://twitter.com/sunnago
+

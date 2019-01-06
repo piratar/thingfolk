@@ -1,5 +1,4 @@
-# thingfolk
-Upplýsingar um þingfólk Pírata
+# Upplýsingar um þingfólk Pírata
 
 ## Í hverju erum við að vinna?
 Viltu vita hverju Alþingismenn Pírata eru að vinna í?

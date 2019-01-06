@@ -1,6 +1,5 @@
 # Upplýsingar um þingfólk Pírata
 
-## Í hverju erum við að vinna?
 Viltu vita hverju Alþingismenn Pírata eru að vinna í?
 
 Hér fyrir neðan er listi á þau tól sem við erum að nota, og gögn sem eru **ekki viðkvæm**.
